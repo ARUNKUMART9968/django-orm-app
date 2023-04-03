@@ -48,7 +48,7 @@ class GitAdmin(admin.ModelAdmin):
     list_display = ('username_primary_key', 'password', 'firstname', 'lastname','profile_photo','email')
 ```
 
-## OUTPUT
+
 ## OUTPUT
 ![web](https://user-images.githubusercontent.com/121215794/229409662-cd02ffb2-8c80-4e03-a1a3-3fea16d5b154.png)
 
